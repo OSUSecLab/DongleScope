@@ -1,6 +1,6 @@
 # Responsible Disclosure
 
-This document is to record the vulnerability disclosure of our paper: [Plug-N-Pwned: Comprehensive Vulnerability Analysis of OBD-II Dongles as ANew Over-the-Air Attack Surface in Automotive IoT](https://www.usenix.org/conference/usenixsecurity20/presentation/wen). The events are documented in chronological order.
+This document is to record the vulnerability disclosure of our paper: [Plug-N-Pwned: Comprehensive Vulnerability Analysis of OBD-II Dongles as A New Over-the-Air Attack Surface in Automotive IoT](https://www.usenix.org/conference/usenixsecurity20/presentation/wen). The events are documented in chronological order.
 
 ###August 7, 2019
 
