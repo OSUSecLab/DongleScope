@@ -1,0 +1,641 @@
+{
+
+  "7": {
+  "name": "Carly Adapter",
+  "mode": 0,
+  "address": "192.168.0.10",
+  "port": 35000,
+  "uuid": {}
+},
+
+  "4": {
+  "name": "BlueDriver 2.39-B350",
+  "mode": 1,
+  "address": "",
+  "port": 1,
+  "uuid": {}
+},
+
+
+  "8": {
+  "name": "OBDLink MX+ 38611",
+  "mode": 1,
+  "address": "",
+  "port": 1,
+  "uuid": {}
+},
+
+
+  "21": {
+  "name": "WiFi-OBDII",
+  "mode": 0,
+  "address": "192.168.0.10",
+  "port": 35000,
+  "uuid": {}
+},
+
+  "36": {
+  "name": "WiFi-OBDII",
+  "mode": 0,
+  "address": "192.168.0.10",
+  "port": 35000,
+  "uuid": {}
+},
+
+  "25": {
+  "name": "OBDII SCANNER",
+  "mode": 0,
+  "address": "192.168.0.10",
+  "port": 35000,
+  "uuid": {}
+},
+
+  "15": {
+  "name": "WiFi-OBDII",
+  "mode": 0,
+  "address": "192.168.0.10",
+  "port": 35000,
+  "uuid": {}
+},
+
+  "28": {
+  "name": "V-Link",
+  "mode": 0,
+  "address": "192.168.0.10",
+  "port": 35000,
+  "uuid": {}
+},
+
+  "24": {
+  "name": "V-Link",
+  "mode": 0,
+  "address": "192.168.0.10",
+  "port": 35000,
+  "uuid": {}
+},
+
+  "39": {
+  "name": "WiFi-OBDII",
+  "mode": 0,
+  "address": "192.168.0.10",
+  "port": 35000,
+  "uuid": {}
+},
+
+  "29": {
+  "name": "WiFi-OBDII",
+  "mode": 0,
+  "address": "192.168.0.10",
+  "port": 35000,
+  "uuid": {}
+},
+
+  "83": {
+  "name": "Carista",
+  "mode": 2,
+  "address": "",
+  "port": 0,
+  "uuid": {"FFF0": ["FFF1", "FFF2"]}
+},
+
+  "17": {
+  "name": "FasLink M2",
+  "mode": 2,
+  "address": "",
+  "port": 1,
+  "uuid": {"FFE0": ["FFE1", "FFE1"]}
+},
+
+  "84": {
+  "name": "FIXD",
+  "mode": 2,
+  "address": "",
+  "port": 1,
+  "uuid": {"FFF0": ["FFF1", "FFF2"]}
+},
+
+  "11": {
+  "name": "OBDBLE",
+  "mode": 2,
+  "address": "",
+  "port": 1,
+  "uuid": {"FFE0": ["FFE1", "FFE1"]}
+},
+
+  "3": {
+    "name": "Dongle",
+    "mode": 2,
+    "address": "",
+    "port": 1,
+    "uuid": {
+      "FFE0": [
+        "FFE1",
+        "FFE1"
+      ]
+    }
+  },
+
+  "2": {
+    "name": "7Q-Automati",
+    "mode": 2,
+    "address": "",
+    "port": 1,
+    "uuid": {
+      "786EF0CC-2A93-332C-0356-0CC60629AF99": [
+        "B020",
+        "B030"
+      ]
+    }
+  },
+
+  "1": {
+    "name": "OBDLink MX",
+    "mode": 0,
+    "address": "192.168.0.10",
+    "port": 35000,
+    "uuid": {}
+  },
+
+  "5": {
+    "name": "HGC",
+    "mode": 2,
+    "address": "",
+    "port": 1,
+    "uuid": {
+      "FFE0": [
+        "FFE1",
+        "FFE1"
+      ]
+    }
+  },
+
+  "20": {
+    "name": "IOS-Vlink",
+    "mode": 2,
+    "address": "",
+    "port": 1,
+    "uuid": {
+      "18F0": [
+        "2AF0",
+        "2AF1"
+      ]
+    }
+  },
+
+  "18": {
+    "name": "OBDBLE",
+    "mode": 2,
+    "address": "",
+    "port": 1,
+    "uuid": {
+      "FFE0": [
+        "FFE1",
+        "FFE1"
+      ]
+    }
+  },
+
+  "86": {
+    "name": "VEEPEAK",
+    "mode": 2,
+    "address": "",
+    "port": 1,
+    "uuid": {
+      "FFF0": [
+        "FFF1",
+        "FFF2"
+      ]
+    }
+  },
+
+  "10": {
+    "name": "TOPDON_760110",
+    "mode": 2,
+    "address": "",
+    "port": 1,
+    "uuid": {
+      "0783B03E-8535-B5A0-7140-A304D2495CB7": [
+        "0783B03E-8535-B5A0-7140-A304D2495CB8",
+        "0783B03E-8535-B5A0-7140-A304D2495CBA"
+      ]
+    }
+  },
+
+  "56": {
+    "name": "OBDBLE",
+    "mode": 2,
+    "address": "",
+    "port": 1,
+    "uuid": {
+      "FFE0": [
+        "FFE1",
+        "FFE1"
+      ]
+    }
+  },
+
+  "22": {
+    "name": "DODYMPS OBD2",
+    "mode": 2,
+    "address": "",
+    "port": 1,
+    "uuid": {
+      "1000": [
+        "1002",
+        "1001"
+      ]
+    }
+  },
+
+  "85": {
+    "name": "WiFi-OBDII",
+    "mode": 0,
+    "address": "192.168.0.10",
+    "port": 35000,
+    "uuid": {}
+  },
+
+  "65": {
+    "name": "WiFi_OBDII",
+    "mode": 0,
+    "address": "192.168.0.10",
+    "port": 35000,
+    "uuid": {}
+  },
+
+  "23": {
+    "name": "IOS-Vlink",
+    "mode": 2,
+    "address": "",
+    "port": 1,
+    "uuid": {
+      "18F0": [
+        "2AF0",
+        "2AF1"
+      ]
+    }
+  },
+
+  "61": {
+    "name": "OBDII",
+    "mode": 2,
+    "address": "",
+    "port": 1,
+    "uuid": {
+      "FFF0": [
+        "FFF1",
+        "FFF2"
+      ]
+    }
+  },
+
+
+  "81": {
+    "name": "WiFi_OBDII",
+    "mode": 0,
+    "address": "192.168.0.10",
+    "port": 35000,
+    "uuid": {}
+  },
+
+
+  "73": {
+    "name": "WiFi-OBDII",
+    "mode": 0,
+    "address": "192.168.0.10",
+    "port": 35000,
+    "uuid": {}
+  },
+
+  "50": {
+    "name": "OBDII",
+    "mode": 2,
+    "address": "",
+    "port": 1,
+    "uuid": {
+      "FFF0": [
+        "FFF1",
+        "FFF2"
+      ]
+    }
+  },
+
+
+  "76": {
+    "name": "WiFi-OBDII",
+    "mode": 0,
+    "address": "192.168.0.10",
+    "port": 35000,
+    "uuid": {}
+  },
+
+  "57": {
+    "name": "WiFi_OBDII",
+    "mode": 0,
+    "address": "192.168.0.10",
+    "port": 35000,
+    "uuid": {}
+  },
+
+  "70": {
+    "name": "WiFi_OBDII",
+    "mode": 0,
+    "address": "192.168.0.10",
+    "port": 35000,
+    "uuid": {}
+  },
+
+  "47": {
+    "name": "WiFi_OBDII",
+    "mode": 0,
+    "address": "192.168.0.10",
+    "port": 35000,
+    "uuid": {}
+  },
+
+  "64": {
+    "name": "WiFi_OBDII",
+    "mode": 0,
+    "address": "192.168.0.10",
+    "port": 35000,
+    "uuid": {}
+  },
+
+  "58": {
+    "name": "WiFi_OBDII",
+    "mode": 0,
+    "address": "192.168.0.10",
+    "port": 35000,
+    "uuid": {}
+  },
+
+  "31": {
+    "name": "IOS-Vlink",
+    "mode": 2,
+    "address": "",
+    "port": 1,
+    "uuid": {
+      "E7810A71-73AE-499D-8C15-FAA9AEF0C3F2": [
+        "BEF8D6C9-9C21-4C9E-B632-BD58C1009F9F",
+        "BEF8D6C9-9C21-4C9E-B632-BD58C1009F9F"
+      ]
+    }
+  },
+
+  "48": {
+    "name": "WiFi-OBDII",
+    "mode": 0,
+    "address": "192.168.0.10",
+    "port": 35000,
+    "uuid": {}
+  },
+
+  "53": {
+    "name": "WiFi_OBDII",
+    "mode": 0,
+    "address": "192.168.0.10",
+    "port": 35000,
+    "uuid": {}
+  },
+
+
+  "82": {
+    "name": "WiFi_OBDII",
+    "mode": 0,
+    "address": "192.168.0.10",
+    "port": 35000,
+    "uuid": {}
+  },
+
+  "71": {
+    "name": "WiFi_OBDII",
+    "mode": 0,
+    "address": "192.168.0.10",
+    "port": 35000,
+    "uuid": {}
+  },
+
+  "45": {
+    "name": "WiFi_OBDII",
+    "mode": 0,
+    "address": "192.168.0.10",
+    "port": 35000,
+    "uuid": {}
+  },
+
+  "34": {
+    "name": "V-checker",
+    "mode": 2,
+    "address": "",
+    "port": 1,
+    "uuid": {
+      "FFE0": [
+        "FFE1",
+        "FFE1"
+      ]
+    }
+  },
+
+  "49": {
+    "name": "OBD",
+    "mode": 2,
+    "address": "",
+    "port": 1,
+    "uuid": {
+      "FFF0": [
+        "FFF1",
+        "FFF2"
+      ]
+    }
+  },
+
+  "80": {
+    "name": "WiFi_OBDII",
+    "mode": 0,
+    "address": "192.168.0.10",
+    "port": 35000,
+    "uuid": {}
+  },
+
+  "30": {
+    "name": "WiFi-OBDII",
+    "mode": 0,
+    "address": "192.168.0.10",
+    "port": 35000,
+    "uuid": {}
+  },
+
+  "59": {
+    "name": "WiFi-OBDII",
+    "mode": 0,
+    "address": "192.168.0.10",
+    "port": 35000,
+    "uuid": {}
+  },
+
+  "16": {
+    "name": "OBDII",
+    "mode": 2,
+    "address": "",
+    "port": 1,
+    "uuid": {
+      "FFF0": [
+        "FFF1",
+        "FFF2"
+      ]
+    }
+  },
+
+  "77": {
+    "name": "WiFi_OBDII",
+    "mode": 0,
+    "address": "192.168.0.10",
+    "port": 35000,
+    "uuid": {}
+  },
+
+  "46": {
+    "name": "WiFi_OBDII",
+    "mode": 0,
+    "address": "192.168.0.10",
+    "port": 35000,
+    "uuid": {}
+  },
+
+  "35": {
+    "name": "V-Link",
+    "mode": 0,
+    "address": "192.168.0.10",
+    "port": 35000,
+    "uuid": {}
+  },
+
+  "37": {
+    "name": "Viecar",
+    "mode": 2,
+    "address": "",
+    "port": 1,
+    "uuid": {
+      "FFF0": [
+        "FFF1",
+        "FFF2"
+      ]
+    }
+  },
+
+  "72": {
+    "name": "WiFi_OBDII",
+    "mode": 0,
+    "address": "192.168.0.10",
+    "port": 35000,
+    "uuid": {}
+  },
+
+  "55": {
+    "name": "WiFi_OBDII",
+    "mode": 0,
+    "address": "192.168.0.10",
+    "port": 35000,
+    "uuid": {}
+  },
+
+  "40": {
+    "name": "iOBD2 mini",
+    "mode": 2,
+    "address": "",
+    "port": 1,
+    "uuid": {
+      "E010": [
+        "E011",
+        "E011"
+      ]
+    }
+  },
+
+  "78": {
+    "name": "WiFi_OBDII",
+    "mode": 0,
+    "address": "192.168.0.10",
+    "port": 35000,
+    "uuid": {}
+  },
+
+  "27": {
+    "name": "iOBD2",
+    "mode": 1,
+    "address": "",
+    "port": 3,
+    "uuid": {}
+  },
+
+  "41": {
+    "name": "V-checker",
+    "mode": 2,
+    "address": "",
+    "port": 1,
+    "uuid": {
+      "FFE0": [
+        "FFE1",
+        "FFE1"
+      ]
+    }
+  },
+
+  "63": {
+    "name": "OBDII",
+    "mode": 2,
+    "address": "",
+    "port": 1,
+    "uuid": {
+      "FFF0": [
+        "FFF1",
+        "FFF2"
+      ]
+    }
+  },
+
+  "32": {
+    "name": "JUTA OBD II IOS",
+    "mode": 2,
+    "address": "",
+    "port": 1,
+    "uuid": {
+      "E7810A71-73AE-499D-8C15-FAA9AEF0C3F2": [
+        "BEF8D6C9-9C21-4C9E-B632-BD58C1009F9F",
+        "BEF8D6C9-9C21-4C9E-B632-BD58C1009F9F"
+      ]
+    }
+  },
+
+  "26": {
+    "name": "V-Link",
+    "mode": 0,
+    "address": "192.168.0.10",
+    "port": 35000,
+    "uuid": {}
+  },
+
+  "68": {
+    "name": "OBDII",
+    "mode": 1,
+    "address": "",
+    "port": 1,
+    "uuid": {}
+  },
+
+  "6": {
+    "name": "Kiwi 3A",
+    "mode": 2,
+    "address": "",
+    "port": 1,
+    "uuid": {
+      "E47C8027-CCA1-4E3B-981F-BDC47ABEB5B5": [
+        "CACC07FF-FFFF-4C48-8FAE-A9EF71B75E26",
+        "1CCE1EA8-BD34-4813-A00A-C76E028FADCB"
+      ]
+    }
+  }
+
+
+}
+
