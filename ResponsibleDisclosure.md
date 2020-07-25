@@ -2,7 +2,7 @@
 
 This document is to record the vulnerability disclosure of our paper: [Plug-N-Pwned: Comprehensive Vulnerability Analysis of OBD-II Dongles as A New Over-the-Air Attack Surface in Automotive IoT](https://www.usenix.org/conference/usenixsecurity20/presentation/wen). The events are documented in chronological order.
 
-###August 7, 2019
+### August 7, 2019
 
 We reported the discovered vulnerabilities via email to 29 OBD-II dongle vendors, which covers 47 (61%) OBD-II dongles in our study. For the remaining 30 (39%) dongles, we were not able to find the contact information of their vendors. 
 
