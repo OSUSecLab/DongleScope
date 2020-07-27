@@ -64,9 +64,12 @@ The following shows an example of how DongleScope can query the VIN from a vehic
 
 If you create a research work that uses our work, please cite our paper:
 
-    @inproceedings{donglescope:security20,
-      title={Plug-N-Pwned: Comprehensive Vulnerability Analysis of OBD-II Dongles as A New Over-the-Air Attack Surface in Automotive IoT.},
-      author={Wen, Haohuang and Chen, Qi Alfred and Lin, Zhiqiang},
-      booktitle={29th USENIX Security Symposium (USENIX Security 20)},
-      year={2020}
+    @inproceedings {DongleScope:security20,
+        title = {Plug-N-Pwned: Comprehensive Vulnerability Analysis of OBD-II Dongles as A New Over-the-Air Attack Surface in Automotive IoT},
+        booktitle = {29th {USENIX} Security Symposium ({USENIX} Security 20)},
+        year = {2020},
+        address = {Boston, MA},
+        url = {https://www.usenix.org/conference/usenixsecurity20/presentation/wen},
+        publisher = {{USENIX} Association},
+        month = aug,
     }
